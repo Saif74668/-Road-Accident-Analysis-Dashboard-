@@ -124,14 +124,4 @@ This project demonstrates how **Microsoft Excel can be used as a powerful Busine
 
 ---
 
-## 📷 Dashboard Preview
 
-(Add your dashboard screenshot here)
-
----
-
-## 🚀 Future Improvements
-
-* Add predictive analysis for accident trends
-* Integrate Power Query for automated data refresh
-* Include additional KPIs and advanced filtering features
